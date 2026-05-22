@@ -1,4 +1,4 @@
-#Ink Blot Animation
+# Ink Blot Animation
 ![screenshot of the ink blot](https://github.com/pentasir/Ink-blot-animation/blob/e021db5ee5f81986547b69c11ae6da9f4cad9164/inkblot.png)
 
 [![Cursor](https://img.shields.io/badge/Cursor-Agent-161618?style=flat&logo=cursor&logoColor=white)](https://cursor.com/)
