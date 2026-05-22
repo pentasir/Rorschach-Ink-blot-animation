@@ -161,7 +161,7 @@ I'd reject approaches that didn't match my aesthetic and vision, AI would adjust
 This shows how AI can accelerate development while maintaining 
 creative control.
 
-Side note - I think in the current age of technology, it is best to add AI to your tech stack without completely avoiding it. Especially if you are a creative person. Some visions are difficult to bring to life and this is where AI steps in. Although, you can argue that the difficulty of creating art is what makes it valuable at the end. I am not technical in the sense of writing code but I play with man made horrors beyond my wildest imagination. Will any of this survive a thousand years? I don't know.
+personal/ side note - I think in the current age of technology it is best to add AI to your tech stack without avoiding it, especially if you are a creative person. Some visions are difficult to bring to life and this is where AI steps in. Although, you can argue that the painstaking process of creating art is what makes it valuable at the end. I am not technical in the sense of writing mathematical animations through code but I play with man made horrors beyond my wildest imagination. Will any of this survive a thousand years? I don't know.
 
 ---
 
