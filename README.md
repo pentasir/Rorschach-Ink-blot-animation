@@ -55,7 +55,8 @@ Side note - The clinical Rorschach test uses 10 ink blots while mine are 6 ink b
 ### Phase 4: The Creative Breakthrough
 **Still stuck emotionally on “liquid metal” → “printed ink blot”**
 
-**Inspiration:** CRT TV static—that beautiful white noise when there's no signal.
+**Inspiration:** CRT TV static—that beautiful white noise when there's no signal (or in this case - layered noise).
+_Organic texture comes from layered (octave‑stacked) 3D gradient noise in the fragment shader. Then masking and thresholding turn that field into ink vs paper._
 
 **The Solution:**
 Instead of morphing pre‑authored DIV blobs, generate **smooth random fields** (layered gradient noise — “noise that feels like texture”) then **posterize / threshold** into ink versus paper:
@@ -70,8 +71,6 @@ This produced **organic, ambiguous shapes** **without timestepped physics simula
 Different devices mainly differ by **resolution / supersampling budgets / frame pacing / how CSS blur stacks** plus normal GPU/driver variance.
 Also: silhouette *families* are **designed presets** (`15` ellipse parameters interpolated across `6` states) — I’m **not claiming “zero authorship.”** What’s generative is the **changing noise texture** fused with those constraints.
 
-
-DOUBLE CHECK ABOVE
 
 ### Phase 5: Engineering for the Web
 **Challenge:** Real fluid dynamics on every pageload ≠ practical for marketing/portfolio sites.
