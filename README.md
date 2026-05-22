@@ -99,7 +99,7 @@ The shader handles:
 1. **Symmetric Noise Generation:** Creates organic, fluid-like patterns
 2. **Shape Morphing:** Smooth transitions between 6 base shapes
 3. **Elliptical Masking:** Constrains shapes into ink-blot-like forms
-4. **Animation Loop:** Soft, continuous morphing - alien esque, similar to the aien alphabet shown in the movie "Arrival"
+4. **Animation Loop:** Soft, continuous morphing - alien esque, similar to the alien alphabet shown in the movie "Arrival"
 
 ![screenshot of sliders](https://github.com/pentasir/Ink-blot-animation/blob/687d2b59022c8d334fcb85be9d1946c030e81fe4/sliders.png)
 
