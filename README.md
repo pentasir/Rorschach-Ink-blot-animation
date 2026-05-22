@@ -103,6 +103,8 @@ The shader handles:
 
 ![screenshot of sliders](https://github.com/pentasir/Ink-blot-animation/blob/687d2b59022c8d334fcb85be9d1946c030e81fe4/sliders.png)
 
+You can use these values to edit animation configuration on the live code. 
+
 ### Why This Approach?
 | Approach | Resource | Result |
 |----------|------|--------|
